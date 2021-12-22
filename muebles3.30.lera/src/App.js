@@ -1,5 +1,5 @@
 import React from 'react'
-import NavBarBS from  './components/Navegacion/BarraDeNavegacion/NavBarBS'
+import NavBarBS from  './components/Navegacion/BarraDeNavegacion'
 import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   
